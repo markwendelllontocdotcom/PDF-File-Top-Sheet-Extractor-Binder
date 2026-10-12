@@ -6,7 +6,7 @@ Takes page 1 (the top sheet) of every PDF you add and binds them into one PDF in
 
 Your PDFs never leave your device. The app runs entirely in the browser and nothing is uploaded.
 
-**Current version:** 1.3.0 (12 Oct 2026). The version is shown at the bottom of the app, under the credit lines.
+**Current version:** 1.3.1 (12 Oct 2026). The version is shown at the bottom of the app, under the credit lines.
 
 ## Install on iPhone or iPad
 
@@ -31,6 +31,7 @@ Open the address in Edge or Chrome, then use the browser menu: **Apps › Instal
 
 | Version | Date | Changes |
 | --- | --- | --- |
+| 1.3.1 | 12 Oct 2026 | Version line uses the same font as the credit lines |
 | 1.3.0 | 12 Oct 2026 | Version number shown under the credit lines and saved in each bound PDF's properties |
 | 1.2.1 | 08 Oct 2026 | Drag and drop fixed when the app is opened from the HTML file on a computer |
 | 1.2.0 | 08 Oct 2026 | Oxypro logo moved to the top-right corner; new app icon |
