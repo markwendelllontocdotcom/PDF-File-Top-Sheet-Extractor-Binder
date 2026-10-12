@@ -1,5 +1,5 @@
-// Offline support for PDF File Top Sheet Extractor & Binder · © 2026 MLWorks (version 202610080644)
-const CACHE = 'tsb-202610080644';
+// Offline support for PDF File Top Sheet Extractor & Binder · © 2026 MLWorks (version 1.3.0-202610120719)
+const CACHE = 'tsb-1.3.0-202610120719';
 const CORE = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './icon-512-maskable.png', './apple-touch-icon.png'];
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(CORE)).then(() => self.skipWaiting()));
