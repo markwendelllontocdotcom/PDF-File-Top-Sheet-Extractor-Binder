@@ -1,12 +1,17 @@
 # PDF File Top Sheet Extractor & Binder
 
-Takes page 1 (the top sheet) of every PDF you add and binds them into one PDF in the order you set. Print it, save it, save it to a folder of your choice or share it by WhatsApp, Facebook or email. Each page of the bound PDF gets a bookmark with the name of the file it came from.
+Two PDF tools in one app, for QA/QC document work:
+
+- **Top Sheet Extractor** takes page 1 (the top sheet) of every PDF you add and binds them into one PDF in the order you set.
+- **PDF Binder** binds whole PDFs into one file. Every page is shown, and you can move, turn or remove any page (one at a time or several at once) before you save.
+
+Both tools let you preview, print, save, save to a folder of your choice or share the bound PDF by WhatsApp, Facebook or email. The bound PDF gets bookmarks with the source file names. The app has a Zoho-style layout with a tool menu and a Light, Dark or Auto theme.
 
 **Open the app:** https://markwendelllontocdotcom.github.io/PDF-File-Top-Sheet-Extractor-Binder/
 
 Your PDFs never leave your device. The app runs entirely in the browser and nothing is uploaded.
 
-**Current version:** 1.4.0 (12 Oct 2026). The version is shown at the bottom of the app, under the credit lines.
+**Current version:** 2.0.0 (24 Nov 2026). The version is shown at the bottom of the menu, under the credit lines.
 
 ## Install on iPhone or iPad
 
@@ -31,6 +36,7 @@ Open the address in Edge or Chrome, then use the browser menu: **Apps › Instal
 
 | Version | Date | Changes |
 | --- | --- | --- |
+| 2.0.0 | 24 Nov 2026 | PDF Binder added (move, turn, remove, select and put back pages); Zoho-style layout with a tool menu; Light / Dark / Auto theme; Preview of the bound PDF in both tools |
 | 1.4.0 | 12 Oct 2026 | New app icon: stacked sheets with a ticked checklist (title bar, browser tab, home screen and installed app) |
 | 1.3.1 | 12 Oct 2026 | Version line uses the same font as the credit lines |
 | 1.3.0 | 12 Oct 2026 | Version number shown under the credit lines and saved in each bound PDF's properties |

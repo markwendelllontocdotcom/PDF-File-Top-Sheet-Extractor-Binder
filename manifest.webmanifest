@@ -1,7 +1,7 @@
 {
   "name": "PDF File Top Sheet Extractor & Binder",
   "short_name": "Top Sheets",
-  "description": "Extracts page 1 of each PDF, lets you arrange them, then binds them into one PDF to print, save or share. Developed by Mark Lontoc, MLWorks.",
+  "description": "Two PDF tools in one app: the Top Sheet Extractor binds page 1 of every PDF, the PDF Binder binds whole PDFs page by page. Arrange, preview, print, save or share. Developed by Mark Lontoc, MLWorks.",
   "id": "./",
   "start_url": "./",
   "scope": "./",
